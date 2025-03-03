@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import Registar from "./pages/Registar";
 import OlvidePassword from "./pages/OlvidePassword";
 import ConfirmarCuenta from "./pages/ConfirmarCuenta";
-import NuevoPassword from "./pages/nuevoPassword";
+import NuevoPassword from "./pages/NuevoPassword";
 import { AuthProvider } from "./context/AuthProvider";
 import AdministrasPacientes from "./pages/AdministrasPacientes";
 import { PacientesProvider } from "./context/PacientesProvider";
