@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
-import Formulario from "../components/formulario";
-import ListadoPacientes from "../components/listadoPacientes";
+import Formulario from "../components/Formulario";
+import ListadoPacientes from "../components/ListadoPacientes";
 import { AiOutlineForm } from "react-icons/ai";
 import { IoCloseCircleOutline } from "react-icons/io5";
 
